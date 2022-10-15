@@ -1,0 +1,75 @@
+*{
+	font-family: TNYbold;
+}
+.judul{
+	background-color: black;
+	text-align: center;
+	padding: 10px;
+	color: white;
+	
+}
+.judul h2,h3{
+	height: 50px;
+}
+
+
+
+th, td {
+  text-align: left;
+  padding: 10px;
+}
+th{
+	padding:25px;
+	background-color: black;
+	text-align: center;
+	color: white; 
+}
+
+tr:nth-child(even) {
+  background-color: grey;
+}
+.A{
+	background-color: black;
+	border-color: yellow;
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px 0px black;
+
+}
+
+.A:hover{
+	background-color:black;
+	color:black;
+	border-color: white; 
+}
+.B{
+	background-color: black;
+	border-color: #29cf29;
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px 0px #D1D1D1;
+
+}
+.B:hover{
+	background-color:black;
+	color:#29cf29;
+	border-color: white; 
+}
+.C{
+	background-color: black;
+	border-color: orange;
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px 0px black;
+
+}
+
+.C:hover{
+	background-color:black;
+	color:black;
+	border-color: white; 
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+body{
+	background-color: white;
+}

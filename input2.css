@@ -1,0 +1,33 @@
+
+.content{
+	text-align: left;
+}
+.content table{
+	font-size: 25px;
+	color: white;
+	font-weight: 600;
+
+}
+.content tr{
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	font-size: 10px;
+	border: 2px solid white;
+	padding: 10px 20px;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+.A{
+	background-color: black;
+	border-color: yellow;
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px 0px black;
+
+}
+
+.A:hover{
+	background-color:black;
+	color:black;
+	border-color: white; 
+}
